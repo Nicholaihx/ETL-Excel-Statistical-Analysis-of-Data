@@ -1,0 +1,64 @@
+# ETL-Excel-Statistical-Analysis-ofData
+Class Projects while completing the Data Analytics Diploma with honors at SAIT 
+
+Etl Process notes:
+Sheet 1 - Civic_Census_by_Ward_and_Dwelling - Original Data Sheet
+Sheet 2 - Notes - How to use the SSIS - Step by step instruction to create DIM and FACT tables from original data
+Sheet 3 - Dimensions or Facts - Which coloumn is which type
+Sheet 4 - Table Structure PLanning - Detail process of categorizing each column as Dimensions or Facts
+
+Montecarlo Simulation:
+Given these parameters 
+The business is projecting a $75M revenue with a standard deviation of $3.5M and with the following variable and fixed expenses:
+
+Variable Expenses (Forecast)		            Fixed Expenses (Forecast)
+	Advertising	 $          7,424,203.80 			    Licenses	 $   6,578,457.00 
+	Subcontractors	 $          8,585,990.60 			Insurance	 $ 12,068,499.60 
+	Utilities	 $          4,914,303.00 			      Credit Cards	 $      665,125.50 
+	Rent	 $          3,235,180.80 			          Website	 $   6,243,060.00 
+	Transportation	 $          2,832,290.50 			Personnel	 $      813,090.00 
+	Total 	 $        26,991,968.70 			              Pool	 $   7,900,452.00 
+	St Dev	 $         3,500,000.00 			        Bar	 $   6,701,429.20 
+					                                      Total 	 $ 40,970,113.30 
+                                                
+Tasked with answering the following:
+1. Use 1000 simulations to obtain the following information:
+  a.	Is Good Sleep – Hotel Services a successful business?
+  b.	What is the probability that the business will make a $4.1M profit? 
+  c.	What is the probability that the business will not make a $4.1M profit?
+2.	Calculate the simulation alpha for the 1000 simulations. 
+
+
+Price Optimization:
+Scenario-
+You work for Flying Nimbus, a cloud storage company. Your company currently offers a 1TB cloud storage option to non-business customers at a rate of $15 per month. The company is planning to change the rate to $20 per month starting next month. 
+However, management is considering raising the rate even higher, to as much as $30 per month. But before doing that they want to find out the best price for the service.
+
+Simplex LP:
+Scenario - 
+A cake company called Cake Yummy is in the business of delivering outstanding new flavours. They approached you as a business advisor to find out how can they increase their profit without increasing their inventory. 
+Each new cake is a combination of two or more flavours as follows:
+•	Strawberry Mango = Strawberry (5 kg) + Mango (2 kg)
+•	Chocolate Cinnamon Vanilla = Chocolate (6 kg) + Cinnamon (2 kg) + Vanilla (3 kg)
+•	Pure Mango Banana = Mango (6 kg) + Banana (3 kg)
+•	Strawberry Twist = Strawberry (6 kg)
+The company has only the following inventory:
+•	Strawberry: 60 kg
+•	Mango: 80 kg
+•	Chocolate: 95 kg
+•	Cinnamon: 56 kg
+•	Vanilla: 96 kg
+•	Banana: 100 kg
+Questions - 
+
+1.	How many of each type of cake can be made without exceeding inventory?
+2.	How can the unit profit for each type of cake be increased?
+3.	As a business advisor, provide the owners with a business rule that will increase profit.
+4.	Define the terms used inventory and available inventory.
+
+Text Analytics:
+Scenario-
+Travel Dreams is a family-oriented business that is concerned about reviews, good and bad, that it received in the past 6 months. It would like to know how the customers feel about their experiences and to analyze customer reviews in order to fix the problems and make the customer experience better.
+
+
+
