@@ -31,12 +31,15 @@ Tasked with answering the following:
 
 Price Optimization:
 Scenario-
-You work for Flying Nimbus, a cloud storage company. Your company currently offers a 1TB cloud storage option to non-business customers at a rate of $15 per month. The company is planning to change the rate to $20 per month starting next month. 
-However, management is considering raising the rate even higher, to as much as $30 per month. But before doing that they want to find out the best price for the service.
+You work for Flying Nimbus, a cloud storage company. Your company currently offers a 1TB cloud storage option to non-business customers
+at a rate of $15 per month. The company is planning to change the rate to $20 per month starting next month. 
+However, management is considering raising the rate even higher, to as much as $30 per month. But before doing that they want to find out the best price
+for the service.
 
 Simplex LP:
 Scenario - 
-A cake company called Cake Yummy is in the business of delivering outstanding new flavours. They approached you as a business advisor to find out how can they increase their profit without increasing their inventory. 
+A cake company called Cake Yummy is in the business of delivering outstanding new flavours. 
+They approached you as a business advisor to find out how can they increase their profit without increasing their inventory. 
 Each new cake is a combination of two or more flavours as follows:
 •	Strawberry Mango = Strawberry (5 kg) + Mango (2 kg)
 •	Chocolate Cinnamon Vanilla = Chocolate (6 kg) + Cinnamon (2 kg) + Vanilla (3 kg)
@@ -58,7 +61,25 @@ Questions -
 
 Text Analytics:
 Scenario-
-Travel Dreams is a family-oriented business that is concerned about reviews, good and bad, that it received in the past 6 months. It would like to know how the customers feel about their experiences and to analyze customer reviews in order to fix the problems and make the customer experience better.
+Travel Dreams is a family-oriented business that is concerned about reviews, good and bad, that it received in the past 6 months. 
+It would like to know how the customers feel about their experiences and to analyze customer reviews in order to fix the problems 
+and make the customer experience better.
 
+Bolts Forecasting:
+Scenario - 
+Bolts & Nuts Inc. is worried that their storage facilities will run out of space in a given month. 
+They have been keeping track of the amount of boxes they have to store at the end of a month. 
+They want to have an idea of whether or not they will need more storage space for the next 2 months.
 
+Exponential Smoothing:
+Scenario - 
+Fundraising Co. is attempting to forecast the amount of money they can expect to earn next year. 
+However, they want to smooth out their data and need to account for seasonal shifts.
+Use Alpha 0.1 , 0.5 , 0.8 and chart the exponential smoothing. Base a recommendation on those charts.
 
+K-Nearest Neighbors: 
+Scenario - 
+A used car dealership wants to offer customers more accurate car options when they approach a salesperson. 
+The dealership believes they can improve the odds of making a sale by showing a customer cars with similar characteristics 
+to the one car they may be interested in.
+Using K = 4 - Suggestions in Excel sheet
